@@ -1,0 +1,8 @@
+Este arquivo-texto é um exemplo com algumas informações aleatórias.
+Alguns dos meus filmes favoritos são:
+- Inception
+- Blade Runner
+- Monstros S. A.
+- A Silent Voice
+- Spirited Away
+Este é o final do arquivo-texto.
